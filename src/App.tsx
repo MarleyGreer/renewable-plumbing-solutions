@@ -8,7 +8,7 @@ function App() {
   return (
     <Router>
       <div>
-        <h1>Renewable Plumbing Solutions</h1>
+        <h1>Renewable Plumbing Solutions!</h1>
         <nav>
           <ul>
             <li>
